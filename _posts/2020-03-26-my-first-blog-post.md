@@ -1,4 +1,6 @@
-title: "Welcome to my blog"
-date: 2020-03-26
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 
 Informacion de Ingenieria Economica 
