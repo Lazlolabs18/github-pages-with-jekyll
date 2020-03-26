@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2020-03-26
 ---
 
 Informacion de Ingenieria Economica 
