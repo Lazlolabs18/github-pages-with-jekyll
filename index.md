@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Lev Omar
 
-I'm glad you are here. I plan to talk about ...
+En este repositorio encontraras información de cursos en ciencias
